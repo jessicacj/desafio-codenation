@@ -1,0 +1,12 @@
+{
+  "name": "codenation-cripto-challenge",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "form-data": "^3.0.0",
+    "fs": "0.0.1-security",
+    "sha1": "^1.1.1"
+  }
+}
